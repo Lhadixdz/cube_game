@@ -1,2 +1,2 @@
 # cube_game
-a simple cube game 
+##a simple cube game 
